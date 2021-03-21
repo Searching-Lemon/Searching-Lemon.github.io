@@ -2461,3 +2461,7 @@ ul.links li:hover .bg {
     header {background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),url(https://sm.ms/delete/wSiuRHs3YqLN4JO9C85TftZpx7);}
     
     
+    .valine {
+        display: none;
+      }
+    
